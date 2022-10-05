@@ -1,0 +1,32 @@
+Hungry Customer Pseudocode
+
+Beginning of the code:
+
+Check wallet If there is money
+Then go to vending Machine
+Else walk away
+
+Select favorite food and press the food code
+insert the money into machine
+Pick item up 
+Take the change 
+Enjoy the food
+
+End of line //for hungry customer
+
+
+Pseudocode for machine owner
+Beginning of code:
+Action.Open the machine cage
+Action.Collect money 
+Action.Check for low stock food items 
+If food item(1)<10 action.restock x amount of item onto shelf  x=10-remaining
+else do not stock
+do so for food item(2,3,4,5,6,7...)
+Action.Close the machine
+end of the line...(for machine owner)
+
+
+
+
+
